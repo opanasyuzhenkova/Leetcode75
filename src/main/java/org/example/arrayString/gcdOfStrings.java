@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 public class gcdOfStrings {
     public static String gcdOfStrings(String s1, String s2) {

@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 public class canPlaceFlowers {
     public static boolean flowers(int[] flowerbed, int n) {

@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 
 public class mergeAlternately {
@@ -17,7 +17,6 @@ public class mergeAlternately {
         return result.toString();
 
     }
-
 
     public static void main(String[] args) {
         System.out.println(mergeAlternately("abc", "pqr"));

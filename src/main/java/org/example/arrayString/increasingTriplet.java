@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 public class increasingTriplet {
     public static boolean triplet(int[] nums) {

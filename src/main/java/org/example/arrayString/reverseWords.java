@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 public class reverseWords {
     public static String reverse(String s) {

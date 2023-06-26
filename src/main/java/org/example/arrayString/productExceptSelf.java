@@ -1,4 +1,4 @@
-package org.example.june;
+package org.example.arrayString;
 
 import java.util.Arrays;
 

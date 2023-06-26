@@ -1,10 +1,10 @@
-package org.example.june;
+package org.example.arrayString;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class kidsWithCandies {
-    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+    public List<Boolean> candies(int[] candies, int extraCandies) {
         int maxC = 0;
         for (int candy : candies) {
             if (candy > maxC) {
